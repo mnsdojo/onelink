@@ -14,6 +14,8 @@
 /coverage
 
 # next.js
+.env
+.env.local
 /.next/
 /out/
 
